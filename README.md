@@ -15,8 +15,21 @@ Sophomore at MNNIT Allahabad.
 ### Skills : <br>
 Reactjs, Blockchain, Machine learning, Full Stack Web-Development, Graphic designing.
 
-### Languages : <br>
-JavaScript, Python, C++, Java, SQL.
+### Tools and Technologies : <br>
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Html5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
+
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![NodeJs](https://img.shields.io/badge/-NodeJs-05122A?style=flat&logo=node.js)&nbsp;
+![Postgres](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![MongoDb](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity)&nbsp;
+
 
 <br>
 <hr>
