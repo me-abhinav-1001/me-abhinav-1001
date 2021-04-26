@@ -37,13 +37,13 @@ Sophomore at MNNIT Allahabad.
 
 <div align="center">
 
-<a href="https://github-readme-stats.vercel.app/api?username=me-abhinav-1001&show_icons=true&theme=react">
+<a href="https://github-readme-stats.vercel.app/api?username=me-abhinav-1001&include_all_commits=true&count_private=true&show_icons=true&theme=react&custom_title=My GitHub Stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=me-abhinav-1001&include_all_commits=true&count_private=true&show_icons=true&theme=react&custom_title=My GitHub Stats" />
 </a>
 <br>
 <hr>
 <br>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=me-abhinav-1001&layout=compact&langs_count=10">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=me-abhinav-1001&layout=compact&langs_count=10&theme=react">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=me-abhinav-1001&layout=compact&langs_count=10&theme=react" />
 </a>
 <br>
