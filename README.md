@@ -4,7 +4,7 @@
 
 <div align="center" width="50">
 
-<img src="https://i.imgur.com/giTdunl.mp4" alt="Welcome!" width="300"/>
+<img src="https://i.imgur.com/qdH7lx5.gif" alt="Welcome!" width="300"/>
 
 </div>
 
@@ -24,14 +24,14 @@ JavaScript, Python, C++, Java, SQL.
 
 <div align="center">
 
-<a href="https://github-readme-stats.vercel.app/api?username=me-abhinav-1001&show_icons=true&theme=cyan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=me-abhinav-1001&include_all_commits=true&count_private=true&show_icons=true&theme=radical&custom_title=My GitHub Stats" />
+<a href="https://github-readme-stats.vercel.app/api?username=me-abhinav-1001&show_icons=true&theme=react">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=me-abhinav-1001&include_all_commits=true&count_private=true&show_icons=true&theme=react&custom_title=My GitHub Stats" />
 </a>
 <br>
 <hr>
 <br>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=me-abhinav-1001&layout=compact&langs_count=10">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=me-abhinav-1001&layout=compact&langs_count=10&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=me-abhinav-1001&layout=compact&langs_count=10&theme=react" />
 </a>
 <br>
 </div> 
