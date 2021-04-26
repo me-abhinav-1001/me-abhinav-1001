@@ -8,6 +8,8 @@
 
 </div>
 
+<div align="center">
+
 ### Currently Persuing : <br>
 Information technology <br>
 Sophomore at MNNIT Allahabad.
@@ -30,6 +32,7 @@ Sophomore at MNNIT Allahabad.
 ![MongoDb](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity)&nbsp;
 
+</div>
 
 <br>
 <hr>
