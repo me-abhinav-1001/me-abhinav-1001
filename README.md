@@ -4,9 +4,10 @@
 
 <div align="center" width="50">
 
-<img src="https://drive.google.com/file/d/1LryGS8p5tzfU8KD-DkBcv9HQmyLnZdZ9/view?usp=sharing" alt="Welcome!" width="300"/>
+<img src="https://i.imgur.com/xrm5CkO.gif" alt="Welcome!" width="300"/>
 
 </div>
+
 ### Currently Persuing : <br>
 Information technology <br>
 Sophomore at MNNIT Allahabad.
@@ -26,6 +27,8 @@ JavaScript, Python, C++, Java, SQL.
 <a href="https://github-readme-stats.vercel.app/api?username=me-abhinav-1001&show_icons=true&theme=cyan">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=me-abhinav-1001&include_all_commits=true&count_private=true&show_icons=true&theme=radical&custom_title=My GitHub Stats" />
 </a>
+<br>
+<hr>
 <br>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=me-abhinav-1001&layout=compact&langs_count=10">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=me-abhinav-1001&layout=compact&langs_count=10&theme=radical" />
