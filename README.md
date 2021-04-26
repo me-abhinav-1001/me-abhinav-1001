@@ -13,7 +13,7 @@ Information technology <br>
 Sophomore at MNNIT Allahabad.
 
 ### Skills : <br>
-Reactjs, Blockchain, Machine learning, Full Stack Web-Development, Graphic designing.
+ Full Stack Web-Development, Machine learning, Blockchain, Graphic designing.
 
 ### Tools and Technologies : <br>
 
