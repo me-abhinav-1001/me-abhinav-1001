@@ -41,7 +41,11 @@ JavaScript, Python, C++, Java, SQL.
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=me-abhinav-1001) 
 
-## &nbsp;Connect with Me :
+## &nbsp;
+
+<div align="center">
+<h2> Connect With Me: <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>
+</div>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/abhinav-anand-33b7a3204//"><img src="https://img.shields.io/badge/-Abhinav%20Anand%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
