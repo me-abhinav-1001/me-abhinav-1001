@@ -44,7 +44,7 @@ JavaScript, Python, C++, Java, SQL.
 ## &nbsp;
 
 <div align="center">
-<h2> Connect With Me: <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>
+<h2> Connect With Me: </h2>
 </div>
 
 <p align="center">
