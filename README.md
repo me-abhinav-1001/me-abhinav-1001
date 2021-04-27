@@ -57,7 +57,7 @@ Sophomore at MNNIT Allahabad.
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=me-abhinav-1001) 
 
-## &nbsp;
+&nbsp;
 
 <div align="center">
 <h2> Connect With Me: </h2>
